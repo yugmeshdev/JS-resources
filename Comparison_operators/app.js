@@ -98,6 +98,9 @@ console.log(id===100?'Correct':'incorrect')
 
 //without braces
 
+
+
+
 if(id == 100)
     console.log('correct')
 else
